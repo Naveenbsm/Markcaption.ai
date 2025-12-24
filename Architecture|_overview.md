@@ -62,4 +62,6 @@ The architecture is guided by the following principles
 - Clear separation of concerns
 - Secure handling of sensitive data
 - Ease of extension and maintenance 
-- Alignment with modern web development best practices 
+- Alignment with modern web development best practices
+- ![system_architecture](https://github.com/user-attachments/assets/bceb2a44-9210-4af6-a93b-10c55c605e17)
+
