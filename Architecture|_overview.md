@@ -63,5 +63,8 @@ The architecture is guided by the following principles
 - Secure handling of sensitive data
 - Ease of extension and maintenance 
 - Alignment with modern web development best practices
-- ![system_architecture](https://github.com/user-attachments/assets/bceb2a44-9210-4af6-a93b-10c55c605e17)
+![system_architecture](https://github.com/user-attachments/assets/0d2cf536-c412-4839-8e48-8dad2d311894)
+![caption_generation_pipeline](https://github.com/user-attachments/assets/0f68a3a3-1b07-4f9b-8f5d-00f96aabc0b7)
+
+
 
