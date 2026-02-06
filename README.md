@@ -32,6 +32,7 @@ Mark Represents the core philosophy of the project
 - A - AI driven
 - R - Reasoning
 - K - Knowledge
+  
 The system focuses on reasoning over textual signals, rather than surface level generation.
 
 # What this project experiments with
